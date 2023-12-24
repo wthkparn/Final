@@ -27,7 +27,7 @@ function Head(props) {
                     My profile
                 </button>
             </Link>
-            <img
+            <img alt=""
                 src={"./top.webp"}
                 style={{
                     width: "100%",
