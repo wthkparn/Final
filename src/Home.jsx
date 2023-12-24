@@ -20,7 +20,7 @@ export const HomeComponent = () => {
             }}
           >
             <img
-              src={"./SRlogo.png"}
+              src={"./SRlogo.png" }  alt=""
               style={{
                 width: "100%",
               }}
@@ -29,7 +29,7 @@ export const HomeComponent = () => {
         }
       />
       <div style={{ textAlign: "center", paddingTop: "3%" }}>
-        {<img src={"./main.jpg"} style={{}} />}
+        {<img src={"./main.jpg"} alt="" style={{}} />}
       </div>
     </div>
   );
