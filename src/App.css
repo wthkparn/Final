@@ -1,0 +1,36 @@
+body {
+  padding: 0;
+  /* background-image: url('https://rshop.rweb-images.com/83ud1I7dd6CMxqnNgHuM1acrHpk=/500x500/26bcceaa53d84f52b1866e1591f580b2'); */
+  background-color: black;
+  background-position: -100% 1000%;
+}
+
+button{
+  cursor: pointer;
+  display: inline-block;
+  min-height: 1em;
+  outline: 0;
+  border: 1px solid grey;
+  vertical-align: baseline;
+  background: #e0e1e2 none;
+  color: rgba(0,0,0,.6);
+  font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+  margin: 0 0.25em 0 0;
+  padding: 0.78571429em 1.5em 0.78571429em;
+  text-transform: none;
+  text-shadow: none;
+  font-weight: 700;
+  line-height: 1em;
+  font-style: normal;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 0.28571429rem;
+  box-shadow: 0 0 0 1px transparent inset, 0 0 0 0 rgba(34,36,38,.15) inset;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  transition: opacity .1s ease,background-color .1s ease,color .1s ease,box-shadow .1s ease,background .1s ease;
+  will-change: '';
+  -webkit-tap-highlight-color: transparent;
+}
