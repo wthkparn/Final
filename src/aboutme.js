@@ -19,7 +19,7 @@ function AboutMe() {
                         }}
                     >
                         <img
-                            src={"/parn.jpg"}
+                            src={"/parn.jpg"} alt=""
                             style={{
                                 width: "300px",
                                 borderRadius: "100%",
