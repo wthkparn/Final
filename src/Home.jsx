@@ -3,7 +3,7 @@ export const HomeComponent = () => {
   return (
     <div>
       <Head
-        title="STAINLESS"
+        title="SR STAINLESS"
         img={
           <div
             style={{
