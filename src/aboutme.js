@@ -4,7 +4,7 @@ function AboutMe() {
     return (
         <div>
             <Head
-                title=" Wethaka Uphata 6101545"
+                title=" Wethaka Upatha 6101545"
                 img={
                     <div
                         style={{
@@ -30,7 +30,7 @@ function AboutMe() {
             />
             <div>
                 <div style={{ fontSize: "32px", color: "white", marginLeft: "400px" }}>
-                    Date of Birth : 8/9/2000
+                    Date of Birth : 9/8/2000
                 </div>
                 <div style={{ fontSize: "32px", color: "white", marginLeft: "400px" }}>
                     Hobbies : Watching Movie  <br /> Camping  <br /> Play Mobile Games <br /> Listen To Music
